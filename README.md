@@ -1,5 +1,7 @@
 # TaskFlow — SaaS landing page
 
+[Открыть сайт](https://tyfhgbnhkjtghgnj.github.io/taskflow-landing/) · [Репозиторий](https://github.com/tyfhgbnhkjtghgnj/taskflow-landing)
+
 Адаптивный англоязычный лендинг вымышленного сервиса управления задачами. Первый проект для портфолио: чистые HTML, CSS и JavaScript, без сборки, библиотек и платных ресурсов.
 
 ## Открыть сайт
